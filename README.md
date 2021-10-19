@@ -1,3 +1,2 @@
 # hello-world
-Just creating a repository
-blah blah
+Hello Homo Sapiens Sapiens! I love to learn new things in any domain. Favourites include astronomy, space, finance, physics, biology, history, psycology and nutrition. 
